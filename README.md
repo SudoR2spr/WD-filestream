@@ -6,7 +6,6 @@
 <h1 align="center">
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="50%">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Streamfile;" />
-</h1>
 <h1 align="center">
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="50%">
 </h1>
