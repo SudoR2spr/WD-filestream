@@ -36,7 +36,7 @@ const SIA_NUMBER = 1234; // Insert a random integer.
 
 <br>
 
-## ⚙️Deploy
+## ⚙️Deploy Cloudflare Workers
 - Create a [Cloudflare](https://www.cloudflare.com/) **account**.
 - Navigate to `Workers & Pages > Create > Create Worker`.
 - Deploy the worker by clicking **Deploy**.
